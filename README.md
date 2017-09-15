@@ -40,8 +40,14 @@ Webservice ：[http://ws.webxml.com.cn/WebServices/MobileCodeWS.asmx](http://ws.
 
 以上各变量去哪儿找，看下面：
 
+![](https://github.com/Sogrey/KSoapClient/blob/master/pics/TIM20170915165608.jpg?raw=true)
 
-示例接口没有
+示例接口没有SoapHeader验证，拿另一个有SoapHeader验证的说明：
+
+![](https://github.com/Sogrey/KSoapClient/blob/master/pics/TIM20170915170002.jpg?raw=true)
+
+图中：MySoapHeader 为SoapHeader的名称，他有两个字段UserName和PassWord为字符串型。
+
 
 ## 参考文章
 
