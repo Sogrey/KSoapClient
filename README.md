@@ -1,0 +1,2 @@
+# KSoapClient
+KSoapClient:使用ksoap2进行Webservice请求
