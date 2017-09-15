@@ -1,6 +1,10 @@
 # KSoapClient
 KSoapClient:使用ksoap2进行Webservice请求
 
+[![Sogrey](https://img.shields.io/badge/author-Sogrey-ff69b4.svg?style=plastic)](https://github.com/Sogrey)
+
+[ksoap2-android-assembly-2.4-jar-with-dependencies.jar](https://github.com/Sogrey/KSoapClient/blob/master/lib_ksoapclient/libs/ksoap2-android-assembly-2.4-jar-with-dependencies.jar?raw=true)
+
 Webservice ：[http://ws.webxml.com.cn/WebServices/MobileCodeWS.asmx](http://ws.webxml.com.cn/WebServices/MobileCodeWS.asmx)
 
 [demo apk下载](https://github.com/Sogrey/KSoapClient/blob/master/app-debug.apk?raw=true)
