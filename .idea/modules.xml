@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KSoapClient.iml" filepath="$PROJECT_DIR$/KSoapClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_ksoapclient/lib_ksoapclient.iml" filepath="$PROJECT_DIR$/lib_ksoapclient/lib_ksoapclient.iml" />
+    </modules>
+  </component>
+</project>
