@@ -48,6 +48,12 @@ Webservice ：[http://ws.webxml.com.cn/WebServices/MobileCodeWS.asmx](http://ws.
 
 图中：MySoapHeader 为SoapHeader的名称，他有两个字段UserName和PassWord为字符串型。
 
+另以上信息也可在WSDL找到： `url+?WSDL`
+
+![](https://github.com/Sogrey/KSoapClient/blob/master/pics/TIM20170915170517.jpg?raw=true)
+
+
+
 
 ## 参考文章
 
